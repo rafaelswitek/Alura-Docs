@@ -1,7 +1,11 @@
 import { MongoClient } from "mongodb";
 
+const user = process.env.MONGO_USER
+const password = process.env.MONGO_PASSWORD
+const url = process.env.MONGO_URL
+
 const cliente = new MongoClient(
-  "mongodb+srv://alura:123@aluracluster.lp6gdyc.mongodb.net/?retryWrites=true&w=majority"
+  `mongodb+srv://${user}:${password}@${url}?retryWrites=true&w=majority`
 );
 
 let documentosColecao, usuariosColecao;
