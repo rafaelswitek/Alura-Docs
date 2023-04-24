@@ -5,7 +5,7 @@ Projeto realizado durante os cursos da Alura [WebSockets: implemente comunica√ß√
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Docs**
-| :label: Tecnologias | WebSockets, Socket.IO, MongoDB
+| :label: Tecnologias | NodeJS, Express, Socket.IO, MongoDB
 | :rocket: URL         | http://localhost:3000
 
 ## Detalhes do projeto
