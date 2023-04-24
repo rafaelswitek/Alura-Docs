@@ -11,10 +11,10 @@ Projeto realizado durante os cursos da Alura [WebSockets: implemente comunicaç�
 ## Detalhes do projeto
 ## Instalação e Configuração
 
-* Instalar dependencias: `npm install`
+* Instalar dependencias: `npm install` ou ``yarn install
 * Criar o arquivo .env com base no exemplo: `cp .env.example .env`
 * Configurar as variaveis no arquivo .env
-* Rodar o projeto: `npm run dev`
+* Rodar o projeto: `npm run dev` ou `yarn dev`
 
 ## Conceitos estudados e aplicados nos cursos
 
