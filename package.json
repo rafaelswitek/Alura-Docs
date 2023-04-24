@@ -8,10 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon servidor/socket-back.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/antonio-evaldo/alura-docs.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
